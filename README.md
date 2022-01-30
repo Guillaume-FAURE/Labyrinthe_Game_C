@@ -5,6 +5,9 @@ Nous avons décidé de réaliser le jeu "Le Labyrinthe", à la fois faisable sur
 ### Image du jeu de société labyrinthe original:<br><br>
 ![alt text](https://jouets-retro.fr/8084/labyrinthe-jeu-ravensburger-.jpg "Jeu du labyrinthe")
 <br>
+###Image du jeu de societe sur terminal:<br><br>
+![plot](./Images-Labyrinthe-CLI.png)
+<br>
 ## Comment lancer le jeu
 Pour lancer le jeu, le simple fichier game.exe lance le jeu sur le terminal:<br>
 * Pour Linux et MacOS : branche main
