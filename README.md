@@ -3,7 +3,7 @@
 Ce projet de développement d'un jeu de plateau en C fonctionnel sur terminal a été réalisé par Guillaume FAURE, Alexandre DORCIVAL et William NGUYEN dans le cadre de notre cursus à l'IMT.<br>
 Nous avons décidé de réaliser le jeu "Le Labyrinthe", à la fois faisable sur terminal, très intéressant et amusant.<br>
 ### Image du jeu de société labyrinthe original:<br><br>
-![alt text](https://www.regle-du-jeu.fr/wp-content/uploads/2020/11/regles-du-jeu-Labyrinthe.jpg "Jeu du labyrinthe")
+![alt text](https://jouets-retro.fr/8084/labyrinthe-jeu-ravensburger-.jpg "Jeu du labyrinthe")
 <br>
 ## Comment lancer le jeu
 Pour lancer le jeu, le simple fichier game.exe lance le jeu sur le terminal:<br>
